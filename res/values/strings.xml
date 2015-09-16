@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">CustomTextView</string>
+    
+    <string name="text_demo">I have an app where I want to be able to show a TextView (or EditText) that allows the user to select some text, then press a button to have something done with that text. Implementing this on Android versions prior to Honeycomb is no problem but on Honeycomb and above the default long-press action is to show an action bar with Copy/Cut/Paste options. I can intercept long-press to show my own action bar, but then I do not get the text selection handles displayed.</string>
+    
+</resources>
